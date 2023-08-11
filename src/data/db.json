@@ -1,0 +1,53 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "stefannyaonofre",
+            "name": "Stefannya Onofre",
+            "email": "stefannya@gmail.com",
+            "avatar": "https://img.freepik.com/vector-premium/vector-caracteres-icono-cara-feliz-avatar-mujer-sonriente-3d_313242-1220.jpg",
+            "followers": [],
+            "following": [], 
+            "posts": [] 
+        },
+        {
+            "id": 2,
+            "username": "snaidygiraldo",
+            "name": "Snaidy Giraldo",
+            "email": "snaidy@gmail.com",
+            "avatar": "https://img.freepik.com/vector-premium/ilustracion-plana-vector-avatar-mujer-avatar-mujer-joven-sonriente_469123-477.jpg?w=2000",
+            "followers": [],
+            "following": [], 
+            "posts": []
+        },
+        {
+            "id": 3,
+            "username": "annabondarets",
+            "name": "Anna Bondarets",
+            "email": "anna@gmail.com",
+            "avatar": "https://static.vecteezy.com/system/resources/thumbnails/001/921/774/small/beautiful-woman-red-hair-in-frame-circular-avatar-character-free-vector.jpg",
+            "followers": [],
+            "following": [], 
+            "posts": []
+        }
+    ],
+    "posts": [
+        {
+          "id": 1,
+          "userId": 1,
+          "image": "https://img.freepik.com/vector-premium/diseno-ilustracion-vector-personaje-avatar-mujer-joven_24877-18513.jpg",
+          "caption": "¡Mi primera foto en esta red social!",
+          "likes": [],
+          "comments": []
+        }
+      ],
+      "comments": [
+        {
+          "id": 1,
+          "postId": 1,
+          "userId": 2,
+          "text": "¡Hermosa foto!",
+          "timestamp": "timestamp_aqui"
+        }
+      ]
+}
