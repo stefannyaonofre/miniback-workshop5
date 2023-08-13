@@ -42,6 +42,30 @@
           "caption": "¡Mi primera foto en esta red social!",
           "likes": [],
           "comments": []
+        },
+        {
+          "id": 2,
+          "userId": 1,
+          "image": "https://archivos-cms.cinecolombia.com/images/5/3/4/2/42435-3-esl-CO/9f3f93604ed4-warner_barbie_cinecol_480x670.jpg",
+          "caption": "Entada viendo la pelicula soñada, muchos recueros de la infancia. Es algo que me recordo esos buenos momentos que pasaba en mi infancia, cuando no me preocupada nada.",
+          "likes": [],
+          "comments": []
+        },
+        {
+          "id": 3,
+          "userId": 1,
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAtRrtrLoY5cF1mJHm-sr09NOY8PLectYobw&usqp=CAU",
+          "caption": "Disfrutando unas pequeñas vacaciones, y conociendo lugares magicos que siempre estaran en los mejores recuerdos.",
+          "likes": [],
+          "comments": []
+        },
+        {
+          "id": 4,
+          "userId": 1,
+          "image": "https://www.triviantes.com/wp-content/uploads/2021/04/Paisaje-del-Valle-del-Cocora.jpg",
+          "caption": "Disfrutando de lugares magicos, y respirando aire puro.",
+          "likes": [],
+          "comments": []
         }
       ],
       "comments": [
