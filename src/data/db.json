@@ -85,6 +85,42 @@
       "following": [],
       "posts": [],
       "savePosts": []
+    },
+    {
+      "id": 6,
+      "username": "glotiaruega",
+      "name": "Gloria Rueda",
+      "email": "gloria@gmail.com",
+      "password": "gloria123",
+      "avatar": "https://img.freepik.com/vector-premium/ilustracion-plana-vector-avatar-mujer-avatar-mujer-joven-sonriente_469123-477.jpg?w=2000",
+      "followers": [],
+      "following": [],
+      "posts": [],
+      "savePosts": []
+    },
+    {
+      "id": 7,
+      "username": "zoraidagarces",
+      "name": "Zoraida Garces",
+      "email": "zoraida@gmail.com",
+      "password": "zoraida123",
+      "avatar": "https://www.soycarmin.com/__export/1591241280785/sites/debate/img/2020/06/03/avatar_3_crop1591241236156.jpg_423682103.jpg",
+      "followers": [],
+      "following": [],
+      "posts": [],
+      "savePosts": []
+    },
+    {
+      "id": 8,
+      "username": "jesusgarces",
+      "name": "Jesus Garces",
+      "email": "jesus@gmail.com",
+      "password": "jesus123",
+      "avatar": "https://cdn.icon-icons.com/icons2/1736/PNG/512/4043260-avatar-male-man-portrait_113269.png",
+      "followers": [],
+      "following": [],
+      "posts": [],
+      "savePosts": []
     }
   ],
   "posts": [
