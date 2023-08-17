@@ -128,6 +128,7 @@
       "id": 1,
       "userId": 1,
       "image": "https://img.freepik.com/vector-premium/diseno-ilustracion-vector-personaje-avatar-mujer-joven_24877-18513.jpg",
+      "video": "",
       "caption": "¡Mi primera foto en esta red social!",
       "likes": [
         2
@@ -143,6 +144,7 @@
       "id": 2,
       "userId": 1,
       "image": "https://archivos-cms.cinecolombia.com/images/5/3/4/2/42435-3-esl-CO/9f3f93604ed4-warner_barbie_cinecol_480x670.jpg",
+      "video": "",
       "caption": "Entada viendo la pelicula soñada, muchos recueros de la infancia. Es algo que me recordo esos buenos momentos que pasaba en mi infancia, cuando no me preocupada nada.",
       "likes": [
         3
@@ -156,6 +158,7 @@
       "id": 3,
       "userId": 2,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAtRrtrLoY5cF1mJHm-sr09NOY8PLectYobw&usqp=CAU",
+      "video": "",
       "caption": "Disfrutando unas pequeñas vacaciones, y conociendo lugares magicos que siempre estaran en los mejores recuerdos.",
       "likes": [
         1
@@ -169,6 +172,7 @@
       "id": 4,
       "userId": 2,
       "image": "https://www.triviantes.com/wp-content/uploads/2021/04/Paisaje-del-Valle-del-Cocora.jpg",
+      "video": "",
       "caption": "Disfrutando de lugares magicos, y respirando aire puro.",
       "likes": [
         1,
@@ -183,6 +187,7 @@
       "id": 5,
       "userId": 3,
       "image": "https://www.eltiempo.com/files/article_main_1200/uploads/2017/04/11/58ed3e35caf07.jpeg",
+      "video": "",
       "caption": "Disfrutando de las maravillosas atracciones que nos ofrece este espectacular Parque del cafe.",
       "likes": [],
       "commentsId": [],
@@ -192,6 +197,7 @@
       "id": 6,
       "userId": 3,
       "image": "https://cdn.colombia.com/sdi/2013/12/10/parque-nacional-de-la-cultura-agropecuaria-panaca-755178.jpg",
+      "video": "",
       "caption": "Conociendo este maravilloso lugar, y disfrutando de las presentaciones que realizan los animales.",
       "likes": [],
       "commentsId": [],
